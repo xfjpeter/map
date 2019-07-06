@@ -4,14 +4,16 @@
   "type": "library",
   "require": {
     "johnxu/tool": "^2.0",
-    "php": ">=7.0.*"
+    "php": ">=7.0.0"
   },
   "license": "MIT",
   "homepage": "https://www.johnxu.net",
-  "authors": [{
-    "name": "johnxu",
-    "email": "fsyzxz@gmail.com"
-  }],
+  "authors": [
+    {
+      "name": "johnxu",
+      "email": "fsyzxz@gmail.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "johnxu\\map\\": "src/"
